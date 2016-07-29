@@ -1,0 +1,175 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Simon Rey
+    tagline: Python Backend Software Engineer in cloud (GCP, AWS, or Azure)
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sfbrey@gmail.com
+    phone: +33 6 73 10 58 00
+    website:
+    linkedin: 
+    github: 
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: 
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: French
+        level: Native
+
+    interests:
+      - item: Sport
+        link:
+
+      - item: Traveling
+        link:
+
+      - item: Skiing
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Software engineer with experience in Web, database management, and Kubernetes infrastructure. I am looking for a Python backend software engineer role in a company in the Bay area of San Francisco. Born serious and hard-working, Agile environments fit me the best.
+
+education:
+    - degree: Master Degree
+      university: Engineering school of math and computer science, <a href="https://www.ensimag.fr">Ensimag</a> (Grenoble, France)
+      time: 2014 - 2017
+      details: |
+
+    - degree: Preparatory Classes
+      university: Lycée Champollion (Grenoble, France)
+      time: 2012 - 2014
+      details: |
+    
+    - degree: French Graduation
+      university: Lycée du Grésivaudan, France
+      time: 2009 - 2012
+      details: |
+
+educationcomplete:
+    - degree: "Master Degree: Diploma of Engineering School"
+      university: Engineering school of math and computer science, <a href="https://www.ensimag.fr">Ensimag</a> (Grenoble, France).
+      time: 2014 - 2017
+      details: |
+       <a href='https://www.challenges.fr/classements/cote-des-diplomes/ecoles-dingenieurs-post-prepa-2019/'>Ranked 6th in France by one survey (in French)</a>
+       Information Systems management speciality:
+
+          - Database management using SQL Algebra and NoSQL approach
+          - Fault tolerant systems with leader election algorithms and more
+          - Operating System kernel and containerized applications
+      
+    - degree: Preparatory Classes
+      university: Lycée Champollion (Grenoble, France)
+      time: 2012 - 2014
+      details: |
+       Advanced theoric classes in math, physics, and engineering science.
+       Preparation for engineering schools.
+    
+    - degree: French Graduation
+      university: Lycée du Grésivaudan (Meylan, France)
+      time: 2009 - 2012
+      details: |
+       Scientific Baccalaureate with the distinction "very good"
+
+    - degree: High School three-month experience in Canada
+      university: Earl Haig Secondary School (Toronto, Canada)
+      time: 2009
+      details: |
+       I chose to learn Computer science, drama, and Japanese.
+
+experiences:
+    - role: Full Stack Developper DevOps. Docker python / C# Backend and HTML5 / CSS front-end website developments
+
+      time: 2017 - Present
+      company: Esker (French company becoming international) <a href="https://www.esker.com">esker.com</a>, Lyon
+      details: |
+        - Agile (Scrum) team work
+        - Maintenance of legacy code that extracts and forwards data from purchase orders and invoices of big companies
+        - Machine learning on pdf documents and emails for triage, improving up to 90% the recognition rate and dynamically updating for each client
+        - Mail factories creation around the world, improving them with modern technologies
+        - Pushed the used of Open source code, the new modules were recognized twice as the team yearly best achievement
+       
+        
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+projects:
+    title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: School projects
+        tagline:
+          - Java Compiler — Websites — OS kernel from scratch — Building a CPU — Resilient DB systems — 3D-kart game — Jpeg Images Reader.
+
+      - title: Big Data analytics internship @Esker
+        tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
+
+      - title: Incrementally learning AI in a Kubernetes and Knative space
+        link: "#"
+        tagline: This project is mine currently at Esker. I am the co-leader with an older team member. Contact me for more information.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 70%
+
+      - name: Kubernetes
+        level: 60%
+
+      - name: C#
+        level: 40%
+
+      - name: JavaScript (with frameworks React, Angular)
+        level: 45%
+
+      - name: Go
+        level: 20%
+
+      - name: Agile / Scrum
+        level: 60%
+        
