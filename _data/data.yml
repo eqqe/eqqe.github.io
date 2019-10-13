@@ -271,22 +271,16 @@ skills:
 
     toolset:
       - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
         level: 60%
 
-      - name: Caffe
-        level: 80%
+      - name: Kubernetes
+        level: 50%
 
-      - name: Matlab
-        level: 90%
+      - name: C#
+        level: 40%
 
-      - name: C/C++
-        level: 75%
+      - name: JavaScript
+        level: 45%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Go
+        level: 10%
