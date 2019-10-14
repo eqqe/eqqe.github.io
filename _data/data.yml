@@ -63,58 +63,25 @@ educationcomplete:
       university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
       time: 2012 - 2017
       details: |
-       Information Systems management specialized:
+       Information Systems management speciality:
 
           - Database management using SQL Algebra and NoSQL dbs
           - Fault tolerant systems w/ leader election algorithms and more
           - Operating System kernel and containerized applications
+       
+       Preceeded by a two-year preparation in Maths and Physics.
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
     
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
+    - degree: French Baccalaureate
+      university: Lycée du Grésivaudan (Meylan, France)
       time: 2009 - 2012
       details: |
-        Master degree in Computer Engineering
+       Scientific Baccalaureate with distinction
 
-
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
+experiences:
+    - role: Full-Stack Developper
+      time: 2017 - Present
+      company: Esker.com, Lyon
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
