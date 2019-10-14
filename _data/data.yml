@@ -14,14 +14,14 @@ sidebar:
     # Sidebar links
     email: sfbrey@gmail.com
     phone: +33 6 73 10 58 00
-    website: sxmon.github.io/ #do not add http://
+    website:
     linkedin: 
-    github: sxmon
+    github: 
     gitlab:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
