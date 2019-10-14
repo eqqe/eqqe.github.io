@@ -136,10 +136,10 @@ projects:
 
     assignments:
       - title: School projects
-        tagline: These projects are not documented: Java Compiler, Websites, OS kernel, CPU forged on a basic logical device, resilient DB systems, 3D-kart game, Jpeg Reader
+        tagline: These projects are not documented. Java Compiler, Websites, OS kernel, CPU forged on a basic logical device, resilient DB systems, 3D-kart game, Jpeg Reader.
 
       - title: Big Data analytics @Esker
-        tagline: This project has a company private documentation: A responsive website designed to help web stakeholder understand usage of the product. Using Elasticsearch and JavaScript framework.
+        tagline: This project has a company private documentation. A responsive website designed to help web stakeholder understand usage of the product. Using Elasticsearch and JavaScript framework.
 
       - title: Incrementally learning AI in a Kubernetes and Knative space
         #link: "#"
