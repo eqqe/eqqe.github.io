@@ -49,7 +49,7 @@ career-profile:
 
 education:
     - degree: Master Degree
-      university: Engineering school of maths and computer science, ENSIMAG (Grenoble, France)
+      university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
       time: 2012 - 2017
       details: |
     
@@ -58,12 +58,16 @@ education:
       time: 2009 - 2012
       details: |
 
-
 educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
+    - degree: Master Degree Diploma of Engineering School
+      university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
+      time: 2012 - 2017
       details: |
+       Information Systems management specialized:
+
+          - Database management using SQL Algebra and NoSQL dbs
+          - Fault tolerant systems w/ leader election algorithms and more
+          - Operating System kernel and containerized applications
 
     - degree: PhD in Computer vision and Machine learning
       university: Heidelberg University
