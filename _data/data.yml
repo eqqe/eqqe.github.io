@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Simon Rey
-    tagline: Full stack developer
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,7 +45,7 @@ career-profile:
     title: Career Profile
     summary: |
       After a Engineering school degree (France), 
-      I pursued my passion for Information Systems as engineer at ESKER (France). I worked in a Agile Team for Research & Development of new products.
+      I pursued my passion for Information Systems as engineer at ESKER (France). I am currently working in an Agile Team for Research & Development of new products.
 
 education:
     - degree: Master Degree
@@ -81,20 +81,18 @@ educationcomplete:
 experiences:
     - role: Full Stack Developper
       time: 2017 - Present
-      company: <a href="https://www.esker.com">esker.com</a>, Lyon
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
+      company: @<a href="https://www.esker.com">esker.com</a>, Lyon
+      details: |
+        I work in an Agile Team for Research & Development of new products.
+        My role is to help the clients of my company to automate their business processes.
+        The Product Owner (PO) in my team appends new user stories every two weeks in a backlog.
+        I am also adding user stories when needed by our consultants and UX experts.
+        I handle legacy code (25yo) as much as I build software using new technologies.
+        My work can be divided in three main epics currently:
+          - Bundle websites for sales admin to manage their business documents
+          - Make existing and new mail printing factories work around the world
+          - Ensure AI-based solutions are incrementally learning from the client documents
+        As we provide a paying software, I am very careful about client data. Esker and I make sure the ISO27001 is respected.
 
     #- role: Senior Software Engineer
       #time: 2014 - 2015
