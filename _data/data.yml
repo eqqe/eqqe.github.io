@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Simon Rey
-    tagline: Information Systems Engineer
+    tagline: Full stack developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -79,9 +79,9 @@ educationcomplete:
        Scientific Baccalaureate with distinction
 
 experiences:
-    - role: Full-Stack Developper
+    - role: Full Stack Developper
       time: 2017 - Present
-      company: Esker.com, Lyon
+      company: <a href="esker.com">esker.com</a>, Lyon
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
