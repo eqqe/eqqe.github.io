@@ -64,9 +64,10 @@ education:
 
 educationcomplete:
     - degree: "Master Degree: Diploma of Engineering School"
-      university: Engineering school of math and computer science, <a href="https://www.ensimag.fr">Ensimag</a>. In 2019, it was (Grenoble, France) <a href='https://www.challenges.fr/classements/cote-des-diplomes/ecoles-dingenieurs-post-prepa-2019/'>ranked 6th in France by this survey amongst engineering schools (fr)</a>
+      university: Engineering school of math and computer science, <a href="https://www.ensimag.fr">Ensimag</a> (Grenoble, France).
       time: 2014 - 2017
       details: |
+       <a href='https://www.challenges.fr/classements/cote-des-diplomes/ecoles-dingenieurs-post-prepa-2019/'>Ranked 6th in France by one survey (in French)</a>
        Information Systems management speciality:
 
           - Database management using SQL Algebra and NoSQL approach
