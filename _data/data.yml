@@ -50,7 +50,12 @@ career-profile:
 education:
     - degree: Master Degree
       university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
-      time: 2012 - 2017
+      time: 2014 - 2017
+      details: |
+
+    - degree: Preparatory Classes
+      university: Lycée Champollion (Grenoble, France)
+      time: 2012 - 2014
       details: |
     
     - degree: French Baccalaureate
@@ -61,22 +66,26 @@ education:
 educationcomplete:
     - degree: Master Degree Diploma of Engineering School
       university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
-      time: 2012 - 2017
+      time: 2014 - 2017
       details: |
        Information Systems management speciality:
 
           - Database management using SQL Algebra and NoSQL dbs
           - Fault tolerant systems w/ leader election algorithms and more
           - Operating System kernel and containerized applications
-       
-       Preceeded by a two-year preparation in Maths and Physics.
-
+      
+- degree: Preparatory Classes
+      university: Lycée Champollion (Grenoble, France)
+      time: 2012 - 2014
+      details: |
+       Advanced theoric classes in math, physics, and engineering science.
+       Preparation for engineering schools.
     
     - degree: French Baccalaureate
       university: Lycée du Grésivaudan (Meylan, France)
       time: 2009 - 2012
       details: |
-       Scientific Baccalaureate with distinction
+       Scientific Baccalaureate with the best distinction
 
     - degree: High School three-month experience in Canada
       university: Earl Haig Secondary School (Toronto, Canada)
