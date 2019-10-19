@@ -64,7 +64,7 @@ education:
 
 educationcomplete:
     - degree: Master Degree: Diploma of Engineering School
-      university: Engineering school of math and computer science, ENSIMAG (Grenoble, France)
+      university: Engineering school of math and computer science, <a href="https://www.ensimag.com">Ensimag</a> (Grenoble, France)
       time: 2014 - 2017
       details: |
        Information Systems management speciality:
