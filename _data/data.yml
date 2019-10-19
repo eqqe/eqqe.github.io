@@ -145,7 +145,8 @@ projects:
 
     assignments:
       - title: School projects
-        tagline: These projects are not documented. Java Compiler, Websites, OS kernel, CPU forged on a basic logical device, resilient DB systems, 3D-kart game, Jpeg Reader.
+        tagline:
+          - A Java Compiler — Websites — OS kernel. CPU forged on a basic logical device, resilient DB systems, 3D-kart game, Jpeg Reader.
 
       - title: Big Data analytics @Esker
         tagline: This project has a company private documentation. A responsive website designed to help web stakeholder understand usage of the product. Using Elasticsearch and JavaScript framework.
@@ -167,8 +168,12 @@ skills:
       - name: C#
         level: 40%
 
-      - name: JavaScript (React and Angular for front. Node for backend)
+      - name: JavaScript (with frameworks)
         level: 45%
 
       - name: Go
         level: 10%
+
+      - name: Agile / Scrum
+        level: 60%
+        
