@@ -145,10 +145,10 @@ projects:
     assignments:
       - title: School projects
         tagline:
-          - A Java Compiler — Websites — OS kernel. CPU forged on a basic logical device, resilient DB systems, 3D-kart game, Jpeg Reader.
+          - Java Compiler — Websites — OS kernel from scratch — Building a CPU — Resilient DB systems — 3D-kart game — Jpeg Images Reader.
 
-      - title: Big Data analytics @Esker
-        tagline: This project has a company private documentation. A responsive website designed to help web stakeholder understand usage of the product. Using Elasticsearch and JavaScript framework.
+      - title: Big Data analytics internship @Esker
+        tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Incrementally learning AI in a Kubernetes and Knative space
         #link: "#"
