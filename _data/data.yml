@@ -86,7 +86,7 @@ projects:
 
     assignments:
       - title: School projects
-        link: https://ensimag.fr
+        link: http://ensimag.grenoble-inp.fr
         tagline:
           - Java Compiler — Websites — OS kernel from scratch — Building a CPU — Resilient DB systems — 3D-kart game — Jpeg Images Reader.
 
