@@ -148,8 +148,8 @@ projects:
         tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Incrementally learning AI in a Kubernetes and Knative space
-        link: "#"
-        tagline: This project is mine currently at Esker. I am the co-leader with an older team member. Contact me for more information.
+        link: https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201
+        tagline: This project is mine currently at Esker. I am the co-leader with an older team member. Contact me for more information. https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201
 
 skills:
     title: Skills &amp; Proficiency
