@@ -86,10 +86,12 @@ projects:
 
     assignments:
       - title: School projects
+        link: https://ensimag.fr
         tagline:
           - Java Compiler — Websites — OS kernel from scratch — Building a CPU — Resilient DB systems — 3D-kart game — Jpeg Images Reader.
 
       - title: Big Data analytics internship — esker.com
+        link: https://esker.com
         tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Machine Learning (on text) Webservices in Kubernetes
