@@ -96,4 +96,4 @@ projects:
 
       - title: Machine Learning (on text) Webservices in Kubernetes
         link: https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201
-        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201'>Github commit example https://github.com/eqqe/arkade/commit/79725b...</a>a            
+        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201'>Github commit example https://github.com/eqqe/arkade/commit/79725b...</a><br/><a href='https://github.com/kubeflow/examples/pull/616'>Example PR in Kubeflow repository https://github.com/kubeflow/examples/pull/616</a>        
