@@ -144,7 +144,7 @@ projects:
         tagline:
           - Java Compiler — Websites — OS kernel from scratch — Building a CPU — Resilient DB systems — 3D-kart game — Jpeg Images Reader.
 
-      - title: Big Data analytics internship @Esker
+      - title: Big Data analytics internship — esker.com
         tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Incrementally learning AI in a Kubernetes and Knative space
