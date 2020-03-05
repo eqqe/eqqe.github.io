@@ -149,7 +149,7 @@ projects:
 
       - title: Incrementally learning AI in a Kubernetes and Knative space
         link: https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201
-        tagline: This project is mine currently at Esker. I am the co-leader with an older team member. Contact me for more information. <a href='https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201'>Github commit example https://github.com/eqqe/arkade/commit/79725b...</a><br/><a href='https://github.com/kubeflow/examples/pull/616>Example contribution to Kubeflow example https://github.com/kubeflow/examples/pull/616</a>                 
+        tagline: This project is mine currently at Esker. I am the co-leader with an older team member. Contact me for more information. <a href='https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201'>Github commit example https://github.com/eqqe/arkade/commit/79725b...</a><a href='https://github.com/kubeflow/examples/pull/616>Example contribution to Kubeflow example https://github.com/kubeflow/examples/pull/616</a>                 
 
 skills:
     title: Skills &amp; Proficiency
