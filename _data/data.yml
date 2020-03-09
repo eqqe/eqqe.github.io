@@ -95,5 +95,5 @@ projects:
         tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Machine Learning (on text) Webservices in Kubernetes
-        link: https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201
-        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eqqe/arkade/commit/79725bbff38f093de5416c2c071dd5f7ef367201'>Github commit example https://github.com/eqqe/arkade/commit/79725b...</a><br/><a href='https://github.com/kubeflow/examples/pull/616'>Example PR in Kubeflow repository https://github.com/kubeflow/examples/pull/616</a>        
+        link: https://github.com/eqqe/arkade/commit/d05b2c19c7c02cda722a31aee8d5b57a21fc68cd
+        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eqqe/arkade/commit/d05b2c19c7c02cda722a31aee8d5b57a21fc68cd'>Github commit example https://github.com/eqqe/arkade/commit/d05b2...</a><br/><a href='https://github.com/kubeflow/examples/pull/616'>Example PR in Kubeflow repository https://github.com/kubeflow/examples/pull/616</a>        
