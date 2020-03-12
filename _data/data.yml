@@ -95,5 +95,5 @@ projects:
         tagline: A responsive website designed to help stakeholders understand the metrics and usage of Esker software. Using Elasticsearch and JavaScript framework.
 
       - title: Machine Learning (on text) Webservices in Kubernetes
-        link: https://github.com/eqqe/coolknative
-        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eqqe/coolknative'>Github repo https://github.com/eqqe/coolknative</a><br/><a href='https://github.com/kubeflow/examples/pull/616'>Example PR in Kubeflow repository https://github.com/kubeflow/examples/pull/616</a>        
+        link: https://github.com/eskersoftware/coolknative
+        tagline: Classify and learn new categories of documents. Automatic deployment, scalability and resiliency. Knative, Scikit-Learn, Python, Go.<br/><a href='https://github.com/eskersoftware/coolknative'>Github repo https://github.com/eskersoftware/coolknative</a><br/><a href='https://github.com/kubeflow/examples/pull/616'>Example PR in Kubeflow repository https://github.com/kubeflow/examples/pull/616</a>        
